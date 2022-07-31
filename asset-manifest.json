@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "https://soumen-ui.github.io/csb-tqsnxk/static/css/main.947fb157.chunk.css",
-    "main.js": "https://soumen-ui.github.io/csb-tqsnxk/static/js/main.62bc1913.chunk.js",
-    "main.js.map": "https://soumen-ui.github.io/csb-tqsnxk/static/js/main.62bc1913.chunk.js.map",
+    "main.css": "https://soumen-ui.github.io/csb-tqsnxk/static/css/main.78aff71a.chunk.css",
+    "main.js": "https://soumen-ui.github.io/csb-tqsnxk/static/js/main.170dfdbe.chunk.js",
+    "main.js.map": "https://soumen-ui.github.io/csb-tqsnxk/static/js/main.170dfdbe.chunk.js.map",
     "runtime-main.js": "https://soumen-ui.github.io/csb-tqsnxk/static/js/runtime-main.3c54ab36.js",
     "runtime-main.js.map": "https://soumen-ui.github.io/csb-tqsnxk/static/js/runtime-main.3c54ab36.js.map",
     "static/css/2.9ca52afe.chunk.css": "https://soumen-ui.github.io/csb-tqsnxk/static/css/2.9ca52afe.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.6df39850.chunk.js.map": "https://soumen-ui.github.io/csb-tqsnxk/static/js/2.6df39850.chunk.js.map",
     "index.html": "https://soumen-ui.github.io/csb-tqsnxk/index.html",
     "static/css/2.9ca52afe.chunk.css.map": "https://soumen-ui.github.io/csb-tqsnxk/static/css/2.9ca52afe.chunk.css.map",
-    "static/css/main.947fb157.chunk.css.map": "https://soumen-ui.github.io/csb-tqsnxk/static/css/main.947fb157.chunk.css.map",
+    "static/css/main.78aff71a.chunk.css.map": "https://soumen-ui.github.io/csb-tqsnxk/static/css/main.78aff71a.chunk.css.map",
     "static/js/2.6df39850.chunk.js.LICENSE.txt": "https://soumen-ui.github.io/csb-tqsnxk/static/js/2.6df39850.chunk.js.LICENSE.txt",
     "static/media/slick-theme.css": "https://soumen-ui.github.io/csb-tqsnxk/static/media/slick.c94f7671.ttf"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.3c54ab36.js",
     "static/css/2.9ca52afe.chunk.css",
     "static/js/2.6df39850.chunk.js",
-    "static/css/main.947fb157.chunk.css",
-    "static/js/main.62bc1913.chunk.js"
+    "static/css/main.78aff71a.chunk.css",
+    "static/js/main.170dfdbe.chunk.js"
   ]
 }
